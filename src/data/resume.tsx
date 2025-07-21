@@ -151,7 +151,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://vishvsalvi.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconceptmap1.1f65bf2e.png&w=2048&q=75",
+      image: "/conceptmap.webp",
       video: "",
     },
     {
@@ -177,7 +177,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://vishvsalvi.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdocumindpage1.0a7b4404.png&w=2048&q=75",
+      image: "/documind.webp",
       video: "",
     },
     {
@@ -198,7 +198,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "https://vishvsalvi.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fk3dfpage.eef74548.png&w=2048&q=75",
+      image: "/k3df.webp",
       video: "",
     },
   ],
